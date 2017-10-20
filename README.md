@@ -1,3 +1,3 @@
-# Estructura-de-Computadores
+# Estructura de Computadores
 Prácticas EC
 Añadiendo prácticas EC
